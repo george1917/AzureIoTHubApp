@@ -1,0 +1,124 @@
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\obj\Debug\DeviceApp.csprojAssemblyReference.cache
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\obj\Debug\DeviceApp.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DeviceApp.exe.config
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DeviceApp.exe
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DeviceApp.pdb
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DotNetty.Buffers.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DotNetty.Codecs.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DotNetty.Common.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DotNetty.Handlers.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DotNetty.Transport.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Buffers.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Memory.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Text.Json.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.ValueTuple.dll
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DotNetty.Buffers.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DotNetty.Codecs.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DotNetty.Common.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DotNetty.Handlers.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\DotNetty.Transport.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Azure.Devices.Client.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Azure.Devices.Shared.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Buffers.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Memory.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Text.Json.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\bin\Debug\System.ValueTuple.xml
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\obj\Debug\DeviceApp.csproj.CopyComplete
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\obj\Debug\DeviceApp.exe
+C:\Users\George\Desktop\AzureIoTHubApp\DeviceApp\obj\Debug\DeviceApp.pdb
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DeviceApp.exe.config
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DeviceApp.exe
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DeviceApp.pdb
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DotNetty.Buffers.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DotNetty.Codecs.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DotNetty.Common.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DotNetty.Handlers.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DotNetty.Transport.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Azure.Devices.Client.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Azure.Devices.Shared.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Buffers.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Collections.Immutable.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Memory.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Text.Json.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.ValueTuple.dll
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DotNetty.Buffers.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DotNetty.Codecs.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DotNetty.Common.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DotNetty.Handlers.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\DotNetty.Transport.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Azure.Devices.Client.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Azure.Devices.Shared.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Buffers.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Collections.Immutable.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Memory.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Text.Json.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\bin\Debug\System.ValueTuple.xml
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\obj\Debug\DeviceApp.csprojAssemblyReference.cache
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\obj\Debug\DeviceApp.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\obj\Debug\DeviceApp.csproj.CopyComplete
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\obj\Debug\DeviceApp.exe
+C:\Users\George\Desktop\AzureIoTHubApp - 複製\DeviceApp\obj\Debug\DeviceApp.pdb

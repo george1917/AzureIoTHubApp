@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron"> 
+    <button id="submit" style="font-size:24px" type="submit">Get Weight</button>
+    <p id="dataDiv" style="font-size:72px"></p>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+
+    $(document).ready(function () { 
+        $("#submit").click(function (e) {
+            $.ajax({
+                type: "POST",
+                url: "/Home/GetWeightData",
+                contentType: "application/json; charset=utf-8", 
+                dataType: "html",
+                success: function (result, status, xhr) {
+                    $("#dataDiv").html(result);
+                },
+                error: function (xhr, status, error) {
+                    $("#dataDiv").html("Result: " + status + " " + error + " " + xhr.status + " " + xhr.statusText)
+                }
+            });
+            return false;
+        });
+    });
+</script>
